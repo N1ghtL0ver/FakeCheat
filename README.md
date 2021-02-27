@@ -3,7 +3,7 @@
 
 
 <h2 align="center">⚙️ Settings</h2>
-You must enter your link to the .exe program:<br>
+<p align="center">You must enter your link to the .exe program:</p><br>
 
 <p align="center">
   <img src="https://github.com/N1ghtL0ver/FakeCheat/blob/main/img/1.png"><br>
